@@ -93,3 +93,20 @@ function cooking_time(int $eggs): int {
 }
 ```
 
+## ***Work Experience***
+*No relevant  IT experience as of today. Non-IT work experience is described below.*
+
+| Periods  | Company, City - Job Title |
+|--------|--------------------|
+| April 2017 - till now  | Self-Employed as Freelance Technical Translator |
+| November 2018 - May 2019 | Kaz Project Operating LLC, Almaty - Technical Translator  |
+| May 2013 - March 2017 | Tethys Services Kazakhstan LLP (Branch of Tethys Petroleum Limited), Almaty - Oilfield Development Supervisor |
+| April 2011 - May 2013 | Tethys Services Kazakhstan LLP (Branch of Tethys Petroleum Limited), Almaty - Assistant to Technical Director / Technical Translator/Interpreter |
+| December 2010 - February 2011 | Moody International Kazakhstan, Almaty - Technical Translator (temporary replacing in-house translator) |
+| August 2010 - December 2010 | Aker Process B.V. (branch of Aker Solutions Australia), Almaty - Technical Translator/Interpreter |
+| August 2009 - May 2010 | Akmaral LLP, Aksai - Technical Translator/Interpreter / QC Engineer |
+| April 2008 - June 2008 | Kazakh Institute of Oil and Gas Transportation LLP, LangFang (China) - Technical Translator (within integrated engineering team) |
+| November 2006 - April 2008  |  Kazakh Institute of Oil and Gas Transportation LLP, Almaty - Technical Translator/Interpreter |
+| March 2005 - April 2006 | KazGiproGaz LLP, Almaty - Technical Translator |
+| June 2004 - March 2005 | IT Administrator (Linux/Windows) / Helpdesk / Web Developer (HTML4, XHTML1.0/1.1, CSS1/2, PHP4) |
+
