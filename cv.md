@@ -1,5 +1,5 @@
 # **Dmitriy Kisselev**
-<p><img src="images/DVK.png" alt="Dmitriy Kisselev, Junior Programmer" title="Dmitriy Kisselev" height="13%" width="13%" align="right"></p>
+![Photo](images/DVK.png)
 
 ## ***Contact Details:***
 
