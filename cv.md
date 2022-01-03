@@ -1,8 +1,8 @@
 # **Dmitriy Kisselev**
-<p><img src="images/DVK.png" alt="Dmitriy Kisselev, Junior Programmer" title="Dmitriy Kisselev" height="11%" width="11%" align="left"></p>
+<p><img src="images/DVK.png" alt="Dmitriy Kisselev, Junior Programmer" title="Dmitriy Kisselev" height="13%" width="13%" align="right"></p>
 
 ## ***Contact Details:***
----
+
 &nbsp;&nbsp;&nbsp;**Phone number:** +77054020797
 
 &nbsp;&nbsp;&nbsp;**E-mail:** strateg2030@gmail.com
