@@ -110,3 +110,15 @@ function cooking_time(int $eggs): int {
 | March 2005 - April 2006 | KazGiproGaz LLP, Almaty - Technical Translator |
 | June 2004 - March 2005 | IT Administrator (Linux/Windows) / Helpdesk / Web Developer (HTML4, XHTML1.0/1.1, CSS1/2, PHP4) |
 
+## ***Education***
+
+**University Education**
+- 2020-2024 (expected) - [University of the People](https://www.uopeople.edu/), Major: Computer Science, Qualification (upon graduation): Bachelor of Computer Science
+- 2012-2014 - [Satbayev University - previously known as Kazakh National Technical University](https://satbayev.university/en), Major: Petroleum Engineering, Specialization: Oil and Gas Fields Development and Operation, Qualification: Bachelor of Petroleum Engineering
+- 1999-2004 - [Al-Farabi Kazakh National University](https://www.kaznu.kz/en), Major: Physics, Specialization: Thermal Physics, Qualifications: Physicist, Translator
+
+**IT Courses**
+- 2021 - [HTML Basics](https://ru.code-basics.com/languages/html) at Code Basics
+- 2021 - [CSS Basic](https://ru.code-basics.com/languages/css) at Code Basics
+- 2021-2022 - [RS School](https://rs.school/) (in progress)
+
