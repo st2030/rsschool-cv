@@ -13,7 +13,7 @@
 
 ## ***About Me***
 ---
-Successful technical translator with over 16 years of professional experience in the oil & gas industry, and with about 7 years of engineering experience as a QC engineer in construction projects, oil&gas production engineer, and oil field development supervisor in the same industry. Currently working as a freelance technical translator providing services for international oil and gas projects. Planning to relaunch my career in IT as a programmer. In process of pursuing the Bachelor of Computer Science degree at the University of the People. Being an intrinsically motivated person and having good critical thinking skills I am capable of quick learning and improving relevant skills to reach the assigned objectives and resolve work tasks within a limited time frame. My short-term goal is to re-start a career as a front-end developer. My long-term goal is to be involved as a programmer in Natural Languages Processing (NLP), Artificial Intelligence (AI), or Robotic Engineering projects.
+Successful technical translator with over 16 years of professional experience in the oil & gas industry, and about 7 years of engineering experience as a QC engineer in construction projects, oil&gas production engineer, and oil field development supervisor in the same industry. Currently working as a freelance technical translator providing services for international oil and gas projects. Planning to relaunch my career in IT as a programmer. In process of pursuing the Bachelor of Computer Science degree at the University of the People. Being an intrinsically motivated person and having good critical thinking skills I am capable of quick learning and improving relevant skills to reach the assigned objectives and resolve work tasks within a limited time frame. My short-term goal is to re-start a career as a front-end developer. My long-term goal is to be involved as a programmer in Natural Languages Processing (NLP), Artificial Intelligence (AI), or Robotic Engineering projects.
 
 ## ***Skills***
 
@@ -94,7 +94,7 @@ function cooking_time(int $eggs): int {
 ```
 
 ## ***Work Experience***
-*No relevant  IT experience as of today. Non-IT work experience is described below.*
+***No relevant  IT experience as of today.** Non-IT work experience is described below.*
 
 | Periods  | Company, City - Job Title |
 |--------|--------------------|
@@ -122,3 +122,8 @@ function cooking_time(int $eggs): int {
 - 2021 - [CSS Basic](https://ru.code-basics.com/languages/css) at Code Basics
 - 2021-2022 - [RS School](https://rs.school/) (in progress)
 
+## ***Language Skills***
+
+- Russian - native
+- English - C2 Proficient ([EF SET Certificate](https://www.efset.org/cert/VK8fXV))
+- Chinese - A1 Basic
