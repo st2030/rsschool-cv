@@ -1,1 +1,17 @@
+body {
+    background-color: #F1DCC9;
+    font-size: 120%;
+}
+
+h1 {
+    color: #42313A;
+}
+
+h2 {
+    color: #6C2D2C;
+}
+
+.contacts {
+    vertical-align: middle;
+}
 a { text-decoration: none; }
