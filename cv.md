@@ -119,7 +119,7 @@ function cooking_time(int $eggs): int {
 
 **IT Courses**
 - 2021 - [HTML Basics](https://ru.code-basics.com/languages/html) at Code Basics
-- 2021 - [CSS Basic](https://ru.code-basics.com/languages/css) at Code Basics
+- 2021 - [CSS Basics](https://ru.code-basics.com/languages/css) at Code Basics
 - 2021-2022 - [RS School](https://rs.school/) (in progress)
 
 ## ***Language Skills***
