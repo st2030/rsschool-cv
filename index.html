@@ -59,7 +59,7 @@
         <code>
         function rowSumOddNumbers($n) {<br>
             $num = 0;<br>
-            for ($i = $n; $i > 0; $i--) {<br>
+            for ($i = $n; $i &gt; 0; $i--) {<br>
                 $num += $i;<br>
             }<br>
             $sum = $num**2 - ($num - $n)**2;<br>
@@ -74,9 +74,9 @@
         if ($eggs == 0) {<br>
               return 0;<br>
            }<br>
-        elseif ($eggs > 8) {<br>
+        elseif ($eggs &gt; 8) {<br>
             $cook_main=intdiv($eggs, 8);<br>
-            if ($eggs % 8 > 0) {$cook_extra = 5;<br>
+            if ($eggs % 8 &gt; 0) {$cook_extra = 5;<br>
             $cooking_time = $cook_main*5 + $cook_extra;}<br>
             else $cooking_time = $cook_main*5;<br>
             return $cooking_time;<br>
